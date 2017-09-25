@@ -2,30 +2,31 @@
 
 ;; ----- ido-last-directory-list -----
 (
- ("/home/boris/.config/" . "mpd/")
+ ("/home/boris/.config/" . "cava/")
  ("/" . "bin/")
- ("/home/boris/Documents/" . "Test/")
+ ("/home/boris/Documents/" . "Models/")
  ("/home/boris/" . "Documents/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/boris/"
+ "/home/boris/Documents/Models/"
  "/home/boris/Documents/Test/"
+ "/home/boris/.config/cava/"
  "/home/boris/.config/mpd/"
  "/home/boris/.mpd/"
- "/home/boris/.config/cava/"
- "/home/boris/"
  "/home/boris/Desktop/"
  "/home/boris/Downloads/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ ".emacs"
  "test.cpp"
+ "config"
  "mpd.conf"
  "mpd.fifo"
- "config"
- ".emacs"
  "test"
  "clock.sh"
  "index.php"
@@ -35,17 +36,19 @@
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/boris/.config/mpd/" (22969 39601 107830 225000) "./" "../" "mpd.conf")
+ ("/home/boris/" (22984 47821 99206 308000) ".xsession-errors.old" "Public/" ".adobe/" ".openarena/" "Shared/" ".config/" ".nv/" "Pictures/" "clock.sh" "./" "Downloads/" "Steam/" ".emacs~" ".oracle_jre_usage/" "Templates/" ".gnome2/" ".gitkraken/" "examples.desktop" ".QtWebEngineProcess/" ".mozilla/" ".thunderbird/" ".yjp/" ".gnome/" ".xinputrc" ".mpd/" ".profile" ".bashrc" ".gnupg/" ".IntelliJIdea2017.1/" ".sudo_as_admin_successful" ".wine/" ".apport-ignore.xml" ".gitconfig" "Videos/" "Desktop/" ".kodi/" "Documents/" ".minecraft/" ".Skype/" "Games/" ".pam_environment" "GTA San Andreas User Files/" "Music/" ".gconf/" ".node_repl_history" ".emacs.d/" ".mono/" ".xsession-errors" ".m2/" ".killingfloor/" "test" ".gradle/" "../" ".java/" ".cache/" ".vsts/" ".mysql/" ".steampath" ".nano/" ".remmina/" ".AndroidStudio2.3/" ".Toolbox/" ".local/" ".selected_editor" ".ICEauthority" ".emacs" ".steampid" ".Rider2017.1/" ".viminfo" ".steam/" ".gvfs/" ".ncmpcpp/" ".Xauthority" "Playlists/" "IdeaProjects/" ".bash_logout" "Android/" "PlayOnLinux's virtual drives/" ".dbus/" ".android/" ".PlayOnLinux/" ".lyrics/" ".pki/" ".compiz/" ".bash_history" ".nvidia-settings-rc" ".gnome2_private/" ".dmrc" ".mysql_history" ".macromedia/")
 
- ("/home/boris/.config/cava/" (22980 55340 78842 916000) "./" "config~" "../" "config")
+ ("/home/boris/Documents/Models/" (22925 40331 735330 577000) "Sword.blend1" "./" "Sword handle and guard diffuse.png" "Sword blade diffuse.png" "../" "Sword blade normal.png" "Sword.blend" "Sword handle and guard normal.png")
+
+ ("/home/boris/Documents/Test/" (22984 5778 851163 968000) "./" "index.php" "test.cpp~" "../" "test.cpp")
+
+ ("/home/boris/.config/cava/" (22984 46952 445872 778000) "./" "config~" "../" "config")
+
+ ("/home/boris/.config/mpd/" (22984 46890 363215 69000) "./" "mpd.conf~" "../" "mpd.conf")
+
+ ("/home/boris/.config/" (22984 42486 270895 436000) "chromium/" "terminator/" "./" "libaccounts-glib/" "user-dirs.dirs" "QtProject.conf" "inkscape/" "gtk-3.0/" "htop/" "pulse/" "ibus/" "totem/" "monitors.xml" "yelp/" "dconf/" "gnome-control-center/" "gnome-session/" "cef_user_data/" "vlc/" "unity3d/" "Clementine/" "gtk-2.0/" "discord/" "unity/" "user-dirs.locale" "cava/" "mimeapps.list" "gedit/" "menus/" "../" "GitKraken/" "audacious/" "deluge/" "blender/" "compiz-1/" "mc/" "eog/" "NuGet/" "nautilus/" "JetBrains/" "Trolltech.conf" "obs-studio/" "update-notifier/" "evolution/" "autostart/" "enchant/" "upstart/" "mpd/")
 
  ("/home/boris/.mpd/" (22980 54162 276132 33000) "./" "mpd.pid" "mpd.db" "../" "mpd.fifo" "mpdstate")
-
- ("/home/boris/.config/" (22980 50072 17989 525000) "chromium/" "terminator/" "./" "libaccounts-glib/" "user-dirs.dirs" "QtProject.conf" "inkscape/" "gtk-3.0/" "htop/" "pulse/" "ibus/" "totem/" "monitors.xml" "yelp/" "dconf/" "gnome-control-center/" "gnome-session/" "cef_user_data/" "vlc/" "unity3d/" "Clementine/" "gtk-2.0/" "discord/" "unity/" "user-dirs.locale" "cava/" "mimeapps.list" "gedit/" "menus/" "../" "GitKraken/" "audacious/" "deluge/" "blender/" "compiz-1/" "mc/" "eog/" "NuGet/" "nautilus/" "JetBrains/" "Trolltech.conf" "obs-studio/" "update-notifier/" "evolution/" "autostart/" "enchant/" "upstart/" "mpd/")
-
- ("/home/boris/" (22980 52224 136451 189000) ".xsession-errors.old" "Public/" ".adobe/" ".openarena/" "Shared/" ".config/" ".nv/" "Pictures/" "clock.sh" "./" "Downloads/" "Steam/" ".emacs~" ".oracle_jre_usage/" "Templates/" ".gnome2/" ".gitkraken/" "examples.desktop" ".QtWebEngineProcess/" ".mozilla/" ".thunderbird/" ".yjp/" ".gnome/" ".xinputrc" ".mpd/" ".profile" ".bashrc" ".gnupg/" ".IntelliJIdea2017.1/" ".sudo_as_admin_successful" ".wine/" ".apport-ignore.xml" ".gitconfig" "Videos/" "Desktop/" ".kodi/" "Documents/" ".minecraft/" ".Skype/" "Games/" ".pam_environment" "GTA San Andreas User Files/" "Music/" ".gconf/" ".node_repl_history" ".emacs.d/" ".mono/" ".xsession-errors" ".m2/" ".killingfloor/" "test" ".gradle/" "../" ".java/" ".cache/" ".vsts/" ".mysql/" ".steampath" ".nano/" ".remmina/" ".AndroidStudio2.3/" ".Toolbox/" ".local/" ".selected_editor" ".ICEauthority" ".emacs" ".steampid" ".Rider2017.1/" ".viminfo" ".steam/" ".gvfs/" ".ncmpcpp/" ".Xauthority" "Playlists/" "IdeaProjects/" ".bash_logout" "Android/" "PlayOnLinux's virtual drives/" ".dbus/" ".android/" ".PlayOnLinux/" ".lyrics/" ".pki/" ".compiz/" ".bash_history" ".nvidia-settings-rc" ".gnome2_private/" ".dmrc" ".mysql_history" ".macromedia/")
-
- ("/home/boris/Documents/Test/" (22979 48750 740124 246000) "./" "index.php" "test.cpp~" "../" "test.cpp")
 
  ("/home/boris/Desktop/" (22938 56156 832341 650000) "./" "../")
 
