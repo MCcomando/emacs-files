@@ -2,14 +2,16 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/boris/.emacs.d/" . "auto-save-list/")
  ("/home/boris/.config/" . "cava/")
  ("/" . "bin/")
  ("/home/boris/Documents/" . "Test/")
- ("/home/boris/" . "Documents/")
+ ("/home/boris/" . ".emacs.d/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/boris/.emacs.d/auto-save-list/"
  "/home/boris/Documents/Test/"
  "/home/boris/.emacs.d/"
  "/home/boris/"
@@ -37,9 +39,11 @@
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/boris/Documents/Test/" (22984 51443 630580 651000) "./" "index.php" "test.cpp~" "../" "test.cpp")
+ ("/home/boris/.emacs.d/auto-save-list/" (22984 53667 38948 530000) "./" "../")
 
- ("/home/boris/.emacs.d/" (22984 51414 891754 654000) "themes/" "games/" "./" "url/" "elpa/" "bookmarks" "README.md" "ido.last~" "ido.last" "../" "vendor/" "init.el" "auto-save-list/" ".git/" "ac-comphist.dat")
+ ("/home/boris/.emacs.d/" (22984 53666 986950 84000) "themes/" "games/" "./" "url/" "elpa/" "bookmarks" "README.md" "ido.last~" "ido.last" "../" ".gitignore" "vendor/" ".gitmodules" "init.el" "auto-save-list/" ".git/" "ac-comphist.dat")
+
+ ("/home/boris/Documents/Test/" (22984 51443 630580 651000) "./" "index.php" "test.cpp~" "../" "test.cpp")
 
  ("/home/boris/" (22984 50837 993104 300000) ".xsession-errors.old" "Public/" ".adobe/" ".openarena/" "Shared/" ".config/" ".nv/" "Pictures/" "clock.sh" "./" "Downloads/" "Steam/" ".oracle_jre_usage/" "Templates/" ".gnome2/" ".gitkraken/" "examples.desktop" ".QtWebEngineProcess/" ".mozilla/" ".bashrc~" ".thunderbird/" ".yjp/" ".gnome/" ".xinputrc" ".mpd/" ".profile" ".bashrc" ".gnupg/" ".IntelliJIdea2017.1/" ".sudo_as_admin_successful" ".wine/" ".apport-ignore.xml" ".gitconfig" "Videos/" "Desktop/" ".kodi/" "Documents/" ".minecraft/" ".Skype/" "Games/" ".pam_environment" "GTA San Andreas User Files/" "Music/" ".gconf/" ".node_repl_history" ".emacs.d/" ".mono/" ".xsession-errors" ".m2/" ".killingfloor/" "test" ".gradle/" "../" ".java/" ".cache/" ".vsts/" ".mysql/" ".steampath" ".nano/" ".remmina/" ".AndroidStudio2.3/" ".Toolbox/" ".local/" ".selected_editor" ".ICEauthority" ".steampid" ".Rider2017.1/" ".viminfo" ".steam/" ".gvfs/" ".ncmpcpp/" ".Xauthority" "Playlists/" "IdeaProjects/" ".bash_logout" "Android/" "PlayOnLinux's virtual drives/" ".dbus/" ".android/" ".PlayOnLinux/" ".lyrics/" ".pki/" ".compiz/" ".bash_history" ".nvidia-settings-rc" "git-mode.sh" ".gnome2_private/" "git-prompt.sh" ".dmrc" ".mysql_history" ".macromedia/")
 
