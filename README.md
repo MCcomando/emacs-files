@@ -1,1 +1,1 @@
-.emacs.d
+.emacs.d folder for my configuration files
